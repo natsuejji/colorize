@@ -1,0 +1,6 @@
+img_results
+model
+__pycache__
+*.jpg
+video_moredata_l1
+data
